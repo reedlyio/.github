@@ -9,7 +9,7 @@
 
 ## What is Reedee?
 
-Reedee is a blazing fast PDF reader, all you have to do is upload the PDF document, and Reedee will take care of the rest.
+Reedee is a blazing fast PDF reader for the web. Install the web app, upload your PDF and start reading.
 
 ## Privacy 🔒
 
