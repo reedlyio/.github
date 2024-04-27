@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://reedly.io"><img src="../ReedlySolid.svg" alt="Logo" height=170></a>
+  <a href="https://reedly.io"><img src="https://raw.githubusercontent.com/reedlyio/.github/main/ReedlySolid.svg" alt="Logo" height=170></a>
 </p>
 <p align="center">
     Enable your reading superpower.
