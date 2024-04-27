@@ -1,0 +1,60 @@
+<p align="center">
+  <a href="https://reedly.io"><img src="../ReedlySolid.svg" alt="Logo" height=170></a>
+</p>
+<p align="center">
+    Enable your reading superpower.
+</p>
+
+## What is Reedly?
+
+> **Reedly is under active development.**
+
+Reedly is a blazing fast PDF reader, all you have to do is upload the PDF document, and Reedly will take care of the rest.
+
+## Privacy 🔒
+
+- Bring your PDF, Reedly will do the rest.
+- Your data is stored within your Web Browser using IndexedDB.
+
+## Tech Stack 🛠️
+
+- 🚀 [Next.js](https://nextjs.org/)
+- 🌴 [React Query](https://react-query.tanstack.com/)
+- 🎨 [Tailwind CSS](https://tailwindcss.com/)
+- 🖌️ [Shadcn/ui](https://ui.shadcn.com/)
+- 🎬 [Framer Motion](https://www.framer.com/api/motion/)
+
+## Features 🌟
+
+- User-friendly interface for browsing and interacting with documents.
+- Audio playback for reading aloud functionality.
+- Customizable settings for appearance and typography.
+- Progressive Web App (PWA) support.
+- AI page summarization and takeaways.
+
+## Technical features 🚀
+
+- Next.js 14 Partial Prerendering
+- React Server Components
+- Tanstack React Query v5
+
+## To-Do ✅
+
+- [ ] AI generated page summaries and takeaways
+- [x] Add audio playback functionality
+- [ ] Chrome cast for PDF file sharing
+- [x] Add offline support
+- [x] Support for Google Assistant voice summarization commands
+- [x] Audio player background playback support
+
+## Contributing 🤝
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/dalist1/Reedly/issues) for open issues and what needs to be done.
+
+## License 📝
+
+This project is [MIT](LICENSE) licensed.
+
+## Show your support 💪
+
+Give a ⭐️ if you like this project!
