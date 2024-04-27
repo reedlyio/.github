@@ -1,18 +1,19 @@
 <p align="center">
-  <a href="https://reedee.vercel.app"><img src="https://res.cloudinary.com/dipao2yt1/image/upload/v1714207546/ReedlyPNG_vgpjxk.png" alt="Logo" height=170></a>
+  <a href="https://reedly.io"><img src="./ReedlySolid.svg" alt="Logo" height=170></a>
 </p>
 <p align="center">
     Enable your reading superpower.
 </p>
 
-> **Reedee is under active development.**
+## What is Reedly?
 
-## What is Reedee?
+> **Reedly is under active development.**
 
-Reedee is a blazing fast PDF reader for the web. Install the web app, upload your PDF and start reading.
+Reedly is a blazing fast PDF reader, all you have to do is upload the PDF document, and Reedly will take care of the rest.
 
 ## Privacy 🔒
 
+- Bring your PDF, Reedly will do the rest.
 - Your data is stored within your Web Browser using IndexedDB.
 
 ## Tech Stack 🛠️
@@ -25,10 +26,9 @@ Reedee is a blazing fast PDF reader for the web. Install the web app, upload you
 
 ## Features 🌟
 
-- User-friendly interface for browsing and interacting with PDFs.
+- User-friendly interface for browsing and interacting with documents.
 - Audio playback for reading aloud functionality.
 - Customizable settings for appearance and typography.
-- Bionic Text support.
 - Progressive Web App (PWA) support.
 - AI page summarization and takeaways.
 
@@ -46,11 +46,10 @@ Reedee is a blazing fast PDF reader for the web. Install the web app, upload you
 - [x] Add offline support
 - [x] Support for Google Assistant voice summarization commands
 - [x] Audio player background playback support
-- [ ] TTS via Transformers.js with WebGPU Support 
 
 ## Contributing 🤝
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/dalist1/reedee/issues) for open issues and what needs to be done.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/dalist1/Reedly/issues) for open issues and what needs to be done.
 
 ## License 📝
 
