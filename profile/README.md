@@ -18,7 +18,7 @@ Reedly is a blazing fast PDF reader, all you have to do is upload the PDF docume
 
 ## Tech Stack 🛠️
 
-- 🚀 [Next.js](https://nextjs.org/)
+- 🚀 [Next.js 15](https://nextjs.org/)
 - 🌴 [React Query](https://react-query.tanstack.com/)
 - 🎨 [Tailwind CSS](https://tailwindcss.com/)
 - 🖌️ [Shadcn/ui](https://ui.shadcn.com/)
