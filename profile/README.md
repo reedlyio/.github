@@ -16,14 +16,6 @@ Reedly is a blazing fast PDF reader, all you have to do is upload the PDF docume
 - Bring your PDF, Reedly will do the rest.
 - Your data is stored within your Web Browser using IndexedDB.
 
-## Tech Stack 🛠️
-
-- 🚀 [Next.js 15](https://nextjs.org/)
-- 🌴 [React Query](https://react-query.tanstack.com/)
-- 🎨 [Tailwind CSS](https://tailwindcss.com/)
-- 🖌️ [Shadcn/ui](https://ui.shadcn.com/)
-- 🎬 [Framer Motion](https://www.framer.com/api/motion/)
-
 ## Features 🌟
 
 - User-friendly interface for browsing and interacting with documents.
