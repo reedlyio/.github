@@ -9,7 +9,7 @@
 
 > **Reedly is under active development.**
 
-Reedly is a blazing fast PDF reader, all you have to do is upload the PDF document, and Reedly will take care of the rest.
+Reedly is a blazing fast book reading Web App, all you have to do is upload the PDF document, and Reedly will take care of the rest.
 
 ## Privacy 🔒
 
