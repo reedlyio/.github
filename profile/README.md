@@ -18,6 +18,7 @@ Reedly is a blazing fast book reading Web App, all you have to do is upload the 
 
 ## Features 🌟
 
+- High quality book listening experience, while customizing speed, quality, and voices.
 - User-friendly interface for browsing and interacting with documents.
 - Audio playback for reading aloud functionality.
 - Customizable settings for appearance and typography.
