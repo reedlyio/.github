@@ -2,7 +2,7 @@
   <a href="https://reedly.io"><img src="https://raw.githubusercontent.com/reedlyio/.github/main/Reedly.svg" alt="Logo" height=170></a>
 </p>
 <h2 align="center" style="font-weight: bold;">
-    Enable your reading superpower.
+    Empowering humans, through AI.
 </h2>
 
 ## What is Reedly?
