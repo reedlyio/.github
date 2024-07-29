@@ -9,11 +9,12 @@
 
 > **Reedly is under active development.**
 
-Reedly is a blazing fast book reading Web App, all you have to do is upload the PDF document, and Reedly will take care of the rest.
+Reedly is a blazing-fast book reading/listening Web App, all you have to do is upload the PDF document, and start reading or listening to your books right away. 
 
 ## Features 🌟
 
 - High quality book listening experience, while customizing speed, quality, and voices.
+- AI-powered in-line beautiful word definition. Click on any word to try it out.
 - User-friendly interface for browsing and interacting with documents.
 - Audio playback for reading aloud functionality.
 - Customizable settings for appearance and typography.
